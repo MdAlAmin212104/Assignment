@@ -67,6 +67,11 @@ header h2{
       background-repeat:  no-repeat;
       height: 600px;
       margin: 0 140px;
+      display: flex;
+}
+.column img{
+      margin: 68px 0 0 50px;
+
 }
 .party-section h1{
       color: #FFF;
@@ -91,5 +96,40 @@ header h2{
       font-weight: 700;
       background-color: transparent;
       margin: 48px 0 0 150px;
+      border: none;
+}
+
+.team-section{
+      background-image: url(images/team.png);
+      background-repeat:  no-repeat;
+      height: 482px;
+      margin: 0 140px;
+      margin-top: 120px;
+      text-align: center;
+}
+.info-section{
+      padding-top: 100px;
+}
+.color-info{
+      color: #F00;
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 56px;
+}
+
+.info-section p{
+      color: #070211;
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 56px;
+}
+.join-btn{
+      border-radius: 8px;
+      background: #F00;
+      padding: 16px 32px;
+      color: #FFF;
+      margin-top: 48px;
+      font-size: 20px;
+      font-weight: 700;
       border: none;
 }
