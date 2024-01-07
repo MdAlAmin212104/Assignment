@@ -34,3 +34,62 @@ header h2{
       line-height: 95px;
       padding-top: 10px;
 }
+
+
+/* main section here */
+.off-section{
+      text-align: center;
+}
+.off-section h1{
+      color: #F00;
+      font-size: 88px;
+      font-weight: 700;
+      padding-top: 120px;
+      padding-bottom: 48px;
+}
+.off-section h5{
+      color: #F00;
+      font-size: 24px;
+      font-weight: 500;
+}
+.off-section h2{
+      color: #070211;
+      font-size: 48px;
+      font-weight: 700;
+}
+.off-section img{
+      margin-top: 48px;
+      margin-bottom: 120px;
+}
+
+.party-section{
+      background-image:url(images/Vector.png), url(images/Vectorrr.png);
+      background-repeat:  no-repeat;
+      height: 600px;
+      margin: 0 140px;
+}
+.party-section h1{
+      color: #FFF;
+      font-family: Merriweather;
+      font-size: 64px;
+      font-weight: 900;
+      line-height: 88px;
+      letter-spacing: 7.04px;
+      padding: 126px 0 24px 126px;
+}
+.party-section p{
+      color: rgba(255, 255, 255, 0.80);
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 30px;
+      padding-left: 126px;
+}
+.party-section button{
+      color: #FFF;
+      text-align: center;
+      font-size: 20px;
+      font-weight: 700;
+      background-color: transparent;
+      margin: 48px 0 0 150px;
+      border: none;
+}
