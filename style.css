@@ -207,3 +207,29 @@ header h2{
       text-align: center;
       font-family: 'Merriweather', serif;
 }
+.discount-section{
+      margin-top: 64px;
+      margin: 0 140px;
+      position: relative;
+      height: 280px;
+}
+
+.discount-section img{
+      position: absolute;
+}
+.red{
+      margin-top: 432px;
+      z-index: -1;
+}
+.wow{
+      margin-left: 890px;
+}
+.discount{
+      margin-left: 740px;
+      margin-top: 50px;
+      z-index: 30;
+}
+.gift{
+      z-index: 1px;
+      top: 20px;
+}
